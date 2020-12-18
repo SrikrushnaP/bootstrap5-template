@@ -5,8 +5,8 @@ Update Date: 18th Dec, 2020
 
 An Developer App Landing Page Template built with Bootstrap 5 Only
 
-Live Demo - 
-Download - 
+Live Demo - https://srikrushnap.github.io/bootstrap5-template/
+Download - https://github.com/SrikrushnaP/bootstrap5-template
 
 
 License Terms
